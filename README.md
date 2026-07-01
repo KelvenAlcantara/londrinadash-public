@@ -10,18 +10,18 @@ reconciliado contra o Art. 2º da respectiva Lei Orçamentária Anual (LOA)
 
 ## Acessar o painel
 
-Abra qualquer um dos arquivos em [`dist/`](dist/) — são páginas HTML
-autônomas, com os dados já embutidos, e funcionam com duplo clique
-(offline) ou publicadas via GitHub Pages:
+Publicado via GitHub Pages a partir da pasta [`docs/`](docs/) deste
+repositório. Também funciona offline, com duplo clique em qualquer
+arquivo — os dados já vêm embutidos:
 
 | Arquivo | Conteúdo |
 |---|---|
-| `dist/index.html` | Página inicial / navegação |
-| `dist/dashboard.html` | Painel principal |
-| `dist/explorador.html` | Explorador dos dados linha a linha |
-| `dist/analise.html` | Análises e comparações |
-| `dist/verificacao.html` | Verificação de integridade dos dados |
-| `dist/construtor.html` | Construtor de visualizações |
+| `docs/index.html` | Página inicial / navegação |
+| `docs/dashboard.html` | Painel principal |
+| `docs/explorador.html` | Explorador dos dados linha a linha |
+| `docs/analise.html` | Análises e comparações |
+| `docs/verificacao.html` | Verificação de integridade dos dados |
+| `docs/construtor.html` | Construtor de visualizações |
 
 ## Fonte dos dados
 
@@ -42,7 +42,7 @@ repositório.
 
 ## Licença
 
-O **código** deste repositório (HTML/CSS/JS em `dist/`) está sob
+O **código** deste repositório (HTML/CSS/JS em `docs/`) está sob
 [licença MIT](LICENSE) — uso e adaptação livres, inclusive para outros
 municípios.
 
